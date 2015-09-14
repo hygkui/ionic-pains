@@ -4,5 +4,5 @@
 
 如果按照绝对路径 `src="/img/car_gray.png"` 也不行。
 
-在看过同样问题的回答 ![ionic中，图片无法显示](http://segmentfault.com/q/1010000002645525?sort=created) 后，
+在看过同样问题的回答 [ionic中，图片无法显示](http://segmentfault.com/q/1010000002645525?sort=created) 后，
 试试  `src="img/car_gray.png"`， 在chrome和设备中显示正常。
